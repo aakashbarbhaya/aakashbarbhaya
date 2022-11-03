@@ -1,0 +1,2 @@
+- Hi, I’m Aakash Barbhaya 
+- I am currenlty interested in building ERP solutions 
