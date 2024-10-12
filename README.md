@@ -1,12 +1,15 @@
-Hi, I’m Aakash Barbhaya 👋
+Here’s the updated version with Go included:
 
-	•	I build ERP solutions
-	•	Love coding in Kotlin for backend services
-	•	I build frontend apps using Next.js
+Hi, I’m Aakash Barbhaya
 
-Tech I’m Exploring:
+	•	Specialize in ERP solutions
+	•	Love coding Kotlin backend services
+	•	Build Next.js frontend apps
+
+Currently Exploring
 
 	•	Rust
 	•	HTMX
+	•	Go
 
-Please do reach out for collabration and/or for software consultancy
+Reach out for collaboration or software consultancy!
