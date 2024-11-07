@@ -1,5 +1,3 @@
-Here’s the updated version with Go included:
-
 Hi, I’m Aakash Barbhaya
 
 	•	Specialize in ERP solutions
