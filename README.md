@@ -1,13 +1,16 @@
-Hi, I’m Aakash Barbhaya
+# Hi, I'm Aakash Barbhaya 👋
 
-	•	Specialize in ERP solutions
-	•	Love coding Kotlin backend services
-	•	Build Next.js frontend apps (currently inclined towards Tanstack Start)
+- Specializing in **ERP solutions** and building robust **Kotlin backend services**.
+- Crafting user-friendly interfaces with **Next.js**, currently exploring the possibilities with **Tanstack Start**.
 
-Currently Exploring
+---
 
-	•	Rust
-	•	HTMX
-	•	Go
+**Currently Exploring:**
 
-Reach out for collaboration or software consultancy!
+- Rust
+- HTMX
+- Go
+
+---
+
+Feel free to reach out for collaboration or software consultancy!
